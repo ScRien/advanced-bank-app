@@ -1,6 +1,5 @@
 import time
 import random
-from unicodedata import name
 
 print("Bankaya Hoşgeldiniz.")
 hesap = {
